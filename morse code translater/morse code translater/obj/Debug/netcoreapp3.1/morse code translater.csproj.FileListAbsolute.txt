@@ -1,0 +1,15 @@
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.exe
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.deps.json
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.runtimeconfig.json
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.runtimeconfig.dev.json
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.dll
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\bin\Debug\netcoreapp3.1\morse code translater.pdb
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.csprojAssemblyReference.cache
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse_code_translater.Form1.resources
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.csproj.GenerateResource.cache
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.AssemblyInfoInputs.cache
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.AssemblyInfo.cs
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.csproj.CoreCompileInputs.cache
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.dll
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.pdb
+C:\Users\ben1g\Dropbox\Ben Documents\stuff\morse code translater\morse code translater\obj\Debug\netcoreapp3.1\morse code translater.genruntimeconfig.cache
